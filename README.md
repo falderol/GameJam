@@ -1,3 +1,3 @@
 # GameJam
 
-This repository contains code for game jams that i have competed it in the past.
+This repository contains code or links to exe files for games i have made for game jams in the past. 
